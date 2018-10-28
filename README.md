@@ -1,5 +1,18 @@
 ## Engineer Culture Desing Pattern
 ### このサイトについて
+このサイトはエンジニアリングカルチャーについてデザインパターンについて、ご紹介するページです。
+エンジニアリングカルチャーのデザインパターンを知ることによってそれぞれの組織のエンジニアリングカルチャーを改善したり、新しく作ったりするのに役立てるために使ってください。
+基本的に各エンジニアリングカルチャーには、三部構成になっており、
+- 状況、問題
+- やり方
+- 得られるエンジニアリングカルチャー
+
+
+### エンジニアリングカルチャーとは
+ここでは、エンジニアリングカルチャーとは、その組織がどのような行動や振る舞いをするのかを決定付ける共通の認識や習慣、価値観のことを指します。
+
+
+
 
 You can use the [editor on GitHub](https://github.com/daigorowhite/engineer_culture_design_pattern/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
