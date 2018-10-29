@@ -54,3 +54,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Pattern
 
 [Start From Small Change!](./jp/pattern/1_startfromsmallchange)
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 3.0 非移植 ライセンス</a>の下に提供されています。
